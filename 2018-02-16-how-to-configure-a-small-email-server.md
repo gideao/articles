@@ -3,7 +3,6 @@ title: How to configure a small email server
 date: 2018-02-16 22:27:03 -03:00
 layout: post
 ---
-# How to configure a private e-mail server
 
 To run a mail server two services need work together. One service will send and receive messages between email servers and the other will be used clients to retrieve or read his messages sfrom the server.
 

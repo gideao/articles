@@ -3,7 +3,6 @@ title: Basic tools to a developer
 date: 2018-02-09 18:57:33 -03:00
 layout: post
 ---
-# Basic tools for a developer 
 
 zsh
 

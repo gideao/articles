@@ -3,7 +3,6 @@ title: Sum of multiples
 date: 2018-03-30 09:56:59 -03:00
 layout: post
 ---
-# Sum of multiples
 
 ## The problem
 A simple but funny problem is find out the sum of all multiple of $n$ below $m$, where $n < m \text{ and } n, m \in \mathbb{N}$.

@@ -3,7 +3,7 @@ title: Privacy tips for Linux
 date: 2018-03-23 20:58:51 -03:00
 layout: post
 ---
-# Privacy tips for Linux 
+
 
 ```
 apt-get update

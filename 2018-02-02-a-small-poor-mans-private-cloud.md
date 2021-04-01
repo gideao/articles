@@ -3,7 +3,7 @@ title: A small poor man’s private cloud
 date: 2018-02-02 16:33:33 -03:00
 layout: post
 ---
-# A small poor man’s private cloud 
+
 ## Introduction
 
 Heroku is a great platform for hosting Rails application and its push based deploy system is one of most coolest things I ever have found. However use Heroku has its down side too. Everything you want add to your app is offer to you as a add-on, cutting your freedom to do fine tuning and get a better price on computer resources.

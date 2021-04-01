@@ -3,7 +3,7 @@ title: How to do it in Postgres
 date: 2018-02-23 09:12:03 -03:00
 layout: post
 ---
-# How to do it in Postgres
+
 ## Install 
 
 ## Database management 

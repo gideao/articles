@@ -4,8 +4,6 @@ date: 2018-03-09 16:07:35 -03:00
 layout: post
 ---
 
-# How to block ads
-
 ```
 deb http://deb.torproject.org/torproject.org wheezy main
 ```

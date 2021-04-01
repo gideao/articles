@@ -3,7 +3,7 @@ title: My personal Linux Racing setup
 date: 2018-03-16 19:36:57 -03:00
 layout: post
 ---
-# My personal Linux Racing setup
+
 ## Display manager
 
 ## Windows manager

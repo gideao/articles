@@ -3,7 +3,6 @@ title: A simple guide to install and configure a DNS server
 date: 2018-01-26 15:57:30 -03:00
 layout: post
 ---
-# A simple guide to install and configure a DNS server
 
 Ola leitores. Hoje trago o primeiro artigo de uma serie  de recitas para configurar e instalar serviÃ§os do cotidiano dos desenvolvedores e administradores de sistemas.
 
